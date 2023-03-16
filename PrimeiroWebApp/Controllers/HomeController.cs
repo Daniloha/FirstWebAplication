@@ -18,6 +18,8 @@ namespace PrimeiroWebApp.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
+            ViewData["Nome"] = "Danilo";
+            ViewData["Email"] = "danilo.h.araujo@gmail.com";
 
             return View();
         }
