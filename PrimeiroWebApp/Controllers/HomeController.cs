@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PrimeiroWebApp.Models;
+using PrimeiroWebApp.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
